@@ -1,0 +1,12 @@
+# Ignore raw data
+data/raw/
+
+# Ignore outputs (large CSVs, images, etc.)
+outputs/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
