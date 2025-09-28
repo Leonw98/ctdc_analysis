@@ -1,7 +1,3 @@
-Absolutely — let’s pull everything into a **single, polished README.md** that reflects your actual workflow (gender‑based filtering, not year‑based), includes the technical detail, and ends with the governance/standardisation next steps you highlighted. Here’s the full draft you can drop straight into your repo:
-
----
-
 # 📊 CTDC Human Trafficking Analysis & Power BI Dashboard
 
 This project combines **Python‑based data auditing and reshaping** with **Power BI modelling and visualisation** to explore the *Counter‑Trafficking Data Collaborative (CTDC)* dataset. The aim is to create a transparent, reproducible workflow that highlights both the **scale of exploitation** and the **gaps in data coverage**, while also surfacing gender‑based differences in exploitation pathways.
