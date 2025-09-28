@@ -114,6 +114,8 @@ DIVIDE(SUM('case_abduction_flags'[isAbduction]), [TotalPopulation]) * 100000
 
 ---
 
+---
+
 ## 8. 📊 Dashboard Insights (Gender Filters)
 
 - **Female filter**  
@@ -133,19 +135,35 @@ DIVIDE(SUM('case_abduction_flags'[isAbduction]), [TotalPopulation]) * 100000
   - Often under‑specified in both exploitation type and control methods.  
   - Should be flagged in dashboards as “data incomplete” rather than ignored.  
 
-📸 **Screenshots:**  
+---
 
-![Power BI Data Model](power_bi/data_model.png)  
+### 📐 Power BI Data Model
+<p align="center">
+  <img src="power_bi/data_model.png" width="70%"/><br>
+  <em>Power BI Data Model</em>
+</p>
 
-**Maps by Gender**  
-- ![Male Map](power_bi/Maps_male.png)  
-- ![Female Map](power_bi/maps_female.png)  
-- ![Not Known Map](power_bi/maps_not_known.png)  
+---
 
-**Overview Dashboards**  
-- ![Female Overview](power_bi/overview_female.png)  
-- ![Male Overview](power_bi/overview_male.png)  
-- ![Not Known Overview](power_bi/overview_not_known.png)  
+### 🌍 Maps by Gender
+<p align="center">
+  <img src="power_bi/maps_female.png" width="30%"/>
+  <img src="power_bi/Maps_male.png" width="30%"/>
+  <img src="power_bi/maps_not_known.png" width="30%"/><br>
+  <em>Female • Male • Not Known</em>
+</p>
+
+---
+
+### 📊 Overview Dashboards
+<p align="center">
+  <img src="power_bi/overview_female.png" width="30%"/>
+  <img src="power_bi/overview_male.png" width="30%"/>
+  <img src="power_bi/overview_not_known.png" width="30%"/><br>
+  <em>Female • Male • Not Known</em>
+</p>
+
+---
 
 ---
 
