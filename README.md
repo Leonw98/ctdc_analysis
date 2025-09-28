@@ -133,8 +133,21 @@ DIVIDE(SUM('case_abduction_flags'[isAbduction]), [TotalPopulation]) * 100000
   - Often under‑specified in both exploitation type and control methods.  
   - Should be flagged in dashboards as “data incomplete” rather than ignored.  
 
-📸 Screenshots in:  
-- [Power BI dashboards](power_bi/)
+📸 **Screenshots:**  
+
+![Power BI Data Model](power_bi/data_model.png)  
+
+**Maps by Gender**  
+- ![Male Map](power_bi/Maps_male.png)  
+- ![Female Map](power_bi/maps_female.png)  
+- ![Not Known Map](power_bi/maps_not_known.png)  
+
+**Overview Dashboards**  
+- ![Female Overview](power_bi/overview_female.png)  
+- ![Male Overview](power_bi/overview_male.png)  
+- ![Not Known Overview](power_bi/overview_not_known.png)  
+
+---
 
 ---
 
