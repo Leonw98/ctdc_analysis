@@ -1,0 +1,298 @@
+Index,Variant,"Region, subregion, country or area *",Notes,Location code,ISO3 Alpha-code,ISO2 Alpha-code,SDMX code**,Type,Parent code,Year,PopulationCount
+66,Estimates,World,,900,,,1.0,World,0,2015.0,7426477.815
+141,Estimates,Sub-Saharan Africa,b,1834,,,202.0,SDG region,1828,2015.0,974136.006
+215,Estimates,Northern Africa and Western Asia,,1833,,,747.0,SDG region,1828,2015.0,492047.22
+289,Estimates,Central and Southern Asia,,1831,,,62.0,SDG region,1828,2015.0,1929811.875
+363,Estimates,Eastern and South-Eastern Asia,,1832,,,753.0,SDG region,1828,2015.0,2269325.014
+437,Estimates,Latin America and the Caribbean,,1830,,,419.0,SDG region,1828,2015.0,617071.61
+511,Estimates,Oceania (excluding Australia and New Zealand),,1835,,,543.0,SDG region,1828,2015.0,11927.456
+585,Estimates,Australia/New Zealand,,1836,,,53.0,SDG region,1828,2015.0,28332.881
+659,Estimates,Europe and Northern America,,1829,,,513.0,SDG region,1828,2015.0,1103825.753
+733,Estimates,"Europe, Northern America, Australia, and New Zealand",,5502,,,,SDG region,1828,2015.0,1132158.634
+808,Estimates,More developed regions,d,901,,,514.0,Development Group,1803,2015.0,1259516.987
+882,Estimates,Less developed regions,e,902,,,515.0,Development Group,1803,2015.0,6166960.828
+956,Estimates,Least developed countries,f,941,,,199.0,Development Group,902,2015.0,951533.04
+1030,Estimates,"Less developed regions, excluding least developed countries",g,934,,,,Development Group,902,2015.0,5215427.788
+1104,Estimates,"Less developed regions, excluding China",,948,,,,Development Group,1803,2015.0,4743038.744
+1178,Estimates,Land-locked Developing Countries (LLDC),h,1636,,,432.0,Special other,1803,2015.0,476756.68
+1252,Estimates,LLDC: Africa,,2087,,,,Special other,1636,2015.0,301140.97
+1326,Estimates,LLDC: Asia,,2088,,,,Special other,1636,2015.0,153266.743
+1400,Estimates,LLDC: Europe,,2089,,,,Special other,1636,2015.0,5302.968
+1474,Estimates,LLDC: Latin America,,2090,,,,Special other,1636,2015.0,17045.999
+1548,Estimates,Small Island Developing States (SIDS),i,1637,,,722.0,Special other,1803,2015.0,67845.088
+1622,Estimates,SIDS Caribbean,,2091,,,,Special other,1637,2015.0,44234.004
+1696,Estimates,SIDS Pacific,,2092,,,,Special other,1637,2015.0,13106.956
+1770,Estimates,"SIDS Atlantic, Indian Ocean and South China Sea (AIS)",,2093,,,,Special other,1637,2015.0,10504.128
+1845,Estimates,High-and-upper-middle-income countries,,5503,,,,Income Group,1802,2015.0,3900587.002
+1919,Estimates,Low-and-Lower-middle-income countries,,5504,,,,Income Group,1802,2015.0,3494499.388
+1993,Estimates,High-income countries,j,1503,,,910.0,Income Group,1802,2015.0,1212331.257
+2067,Estimates,Low-and-middle-income countries,,1859,,,913.0,Income Group,1802,2015.0,6182755.133
+2141,Estimates,Middle-income countries,j,1517,,,,Income Group,1802,2015.0,5597978.782
+2215,Estimates,Upper-middle-income countries,j,1502,,,914.0,Income Group,1517,2015.0,2688255.745
+2289,Estimates,Lower-middle-income countries,j,1501,,,912.0,Income Group,1517,2015.0,2909723.037
+2363,Estimates,Low-income countries,j,1500,,,911.0,Income Group,1802,2015.0,584776.351
+2437,Estimates,No income group available,,1518,,,,Income Group,1802,2015.0,30985.857
+2512,Estimates,Africa,,903,,,2.0,Region,1840,2015.0,1204453.351
+2586,Estimates,Eastern Africa,,910,,,14.0,Subregion,903,2015.0,390185.141
+2660,Estimates,Burundi,,108,BDI,BI,108.0,Country/Area,910,2015.0,10980.257
+2734,Estimates,Comoros,,174,COM,KM,174.0,Country/Area,910,2015.0,719.11
+2808,Estimates,Djibouti,,262,DJI,DJ,262.0,Country/Area,910,2015.0,1011.597
+2882,Estimates,Eritrea,,232,ERI,ER,232.0,Country/Area,910,2015.0,3095.187
+2956,Estimates,Ethiopia,,231,ETH,ET,231.0,Country/Area,910,2015.0,102478.988
+3030,Estimates,Kenya,,404,KEN,KE,404.0,Country/Area,910,2015.0,46576.903
+3104,Estimates,Madagascar,,450,MDG,MG,450.0,Country/Area,910,2015.0,25093.513
+3178,Estimates,Malawi,,454,MWI,MW,454.0,Country/Area,910,2015.0,16852.586
+3252,Estimates,Mauritius,1,480,MUS,MU,480.0,Country/Area,910,2015.0,1292.328
+3326,Estimates,Mayotte,2,175,MYT,YT,175.0,Country/Area,910,2015.0,240.529
+3400,Estimates,Mozambique,,508,MOZ,MZ,508.0,Country/Area,910,2015.0,26161.552
+3474,Estimates,Réunion,2,638,REU,RE,638.0,Country/Area,910,2015.0,865.86
+3548,Estimates,Rwanda,,646,RWA,RW,646.0,Country/Area,910,2015.0,11501.395
+3622,Estimates,Seychelles,,690,SYC,SC,690.0,Country/Area,910,2015.0,105.933
+3696,Estimates,Somalia,,706,SOM,SO,706.0,Country/Area,910,2015.0,13574.767
+3770,Estimates,South Sudan,,728,SSD,SS,728.0,Country/Area,910,2015.0,11113.206
+3844,Estimates,Uganda,,800,UGA,UG,800.0,Country/Area,910,2015.0,36950.202
+3918,Estimates,United Republic of Tanzania,3,834,TZA,TZ,834.0,Country/Area,910,2015.0,51123.762
+3992,Estimates,Zambia,,894,ZMB,ZM,894.0,Country/Area,910,2015.0,16145.442
+4066,Estimates,Zimbabwe,,716,ZWE,ZW,716.0,Country/Area,910,2015.0,14302.024
+4140,Estimates,Middle Africa,,911,,,17.0,Subregion,903,2015.0,157480.037
+4214,Estimates,Angola,,24,AGO,AO,24.0,Country/Area,911,2015.0,27655.58
+4288,Estimates,Cameroon,,120,CMR,CM,120.0,Country/Area,911,2015.0,22417.823
+4362,Estimates,Central African Republic,,140,CAF,CF,140.0,Country/Area,911,2015.0,4589.884
+4436,Estimates,Chad,,148,TCD,TD,148.0,Country/Area,911,2015.0,14433.077
+4510,Estimates,Congo,,178,COG,CG,178.0,Country/Area,911,2015.0,5035.916
+4584,Estimates,Democratic Republic of the Congo,,180,COD,CD,180.0,Country/Area,911,2015.0,79711.869
+4658,Estimates,Equatorial Guinea,,226,GNQ,GQ,226.0,Country/Area,911,2015.0,1426.801
+4732,Estimates,Gabon,,266,GAB,GA,266.0,Country/Area,911,2015.0,2010.53
+4806,Estimates,Sao Tome and Principe,,678,STP,ST,678.0,Country/Area,911,2015.0,198.557
+4880,Estimates,Northern Africa,,912,,,15.0,Subregion,903,2015.0,230317.345
+4954,Estimates,Algeria,,12,DZA,DZ,12.0,Country/Area,912,2015.0,39609.816
+5028,Estimates,Egypt,,818,EGY,EG,818.0,Country/Area,912,2015.0,98580.154
+5102,Estimates,Libya,,434,LBY,LY,434.0,Country/Area,912,2015.0,6481.604
+5176,Estimates,Morocco,,504,MAR,MA,504.0,Country/Area,912,2015.0,34409.389
+5250,Estimates,Sudan,,729,SDN,SD,729.0,Country/Area,912,2015.0,39418.554
+5324,Estimates,Tunisia,,788,TUN,TN,788.0,Country/Area,912,2015.0,11338.377
+5398,Estimates,Western Sahara,,732,ESH,EH,732.0,Country/Area,912,2015.0,479.451
+5472,Estimates,Southern Africa,,913,,,18.0,Subregion,903,2015.0,63830.292
+5546,Estimates,Botswana,,72,BWA,BW,72.0,Country/Area,913,2015.0,2187.621
+5620,Estimates,Eswatini,,748,SWZ,SZ,748.0,Country/Area,913,2015.0,1139.489
+5694,Estimates,Lesotho,,426,LSO,LS,426.0,Country/Area,913,2015.0,2092.111
+5768,Estimates,Namibia,,516,NAM,,516.0,Country/Area,913,2015.0,2342.499
+5842,Estimates,South Africa,,710,ZAF,ZA,710.0,Country/Area,913,2015.0,56068.572
+5916,Estimates,Western Africa,,914,,,11.0,Subregion,903,2015.0,362640.536
+5990,Estimates,Benin,,204,BEN,BJ,204.0,Country/Area,914,2015.0,11193.715
+6064,Estimates,Burkina Faso,,854,BFA,BF,854.0,Country/Area,914,2015.0,18502.072
+6138,Estimates,Cabo Verde,,132,CPV,CV,132.0,Country/Area,914,2015.0,512.346
+6212,Estimates,Côte d'Ivoire,,384,CIV,CI,384.0,Country/Area,914,2015.0,24880.382
+6286,Estimates,Gambia,,270,GMB,GM,270.0,Country/Area,914,2015.0,2194.719
+6360,Estimates,Ghana,,288,GHA,GH,288.0,Country/Area,914,2015.0,28368.86
+6434,Estimates,Guinea,,324,GIN,GN,324.0,Country/Area,914,2015.0,11616.323
+6508,Estimates,Guinea-Bissau,,624,GNB,GW,624.0,Country/Area,914,2015.0,1763.731
+6582,Estimates,Liberia,,430,LBR,LR,430.0,Country/Area,914,2015.0,4609.285
+6656,Estimates,Mali,,466,MLI,ML,466.0,Country/Area,914,2015.0,18302.455
+6730,Estimates,Mauritania,,478,MRT,MR,478.0,Country/Area,914,2015.0,3906.423
+6804,Estimates,Niger,,562,NER,NE,562.0,Country/Area,914,2015.0,19570.161
+6878,Estimates,Nigeria,,566,NGA,NG,566.0,Country/Area,914,2015.0,188318.455
+6952,Estimates,Saint Helena,4,654,SHN,SH,654.0,Country/Area,914,2015.0,5.484
+7026,Estimates,Senegal,,686,SEN,SN,686.0,Country/Area,914,2015.0,14372.63
+7100,Estimates,Sierra Leone,,694,SLE,SL,694.0,Country/Area,914,2015.0,6956.701
+7174,Estimates,Togo,,768,TGO,TG,768.0,Country/Area,914,2015.0,7566.794
+7248,Estimates,Asia,,935,,,142.0,Region,1840,2015.0,4460866.764
+7322,Estimates,Central Asia,,5500,,,143.0,Subregion,935,2015.0,69055.616
+7396,Estimates,Kazakhstan,,398,KAZ,KZ,398.0,Country/Area,5500,2015.0,17948.412
+7470,Estimates,Kyrgyzstan,,417,KGZ,KG,417.0,Country/Area,5500,2015.0,5949.285
+7544,Estimates,Tajikistan,,762,TJK,TJ,762.0,Country/Area,5500,2015.0,8532.219
+7618,Estimates,Turkmenistan,,795,TKM,TM,795.0,Country/Area,5500,2015.0,6144.471
+7692,Estimates,Uzbekistan,,860,UZB,UZ,860.0,Country/Area,5500,2015.0,30481.229
+7766,Estimates,Eastern Asia,,906,,,30.0,Subregion,935,2015.0,1630510.821
+7840,Estimates,China,5,156,CHN,CN,156.0,Country/Area,906,2015.0,1392459.496
+7914,Estimates,"China, Hong Kong SAR",6,344,HKG,HK,344.0,Country/Area,906,2015.0,7345.115
+7988,Estimates,"China, Macao SAR",7,446,MAC,MO,446.0,Country/Area,906,2015.0,616.162
+8062,Estimates,"China, Taiwan Province of China",8,158,TWN,TW,158.0,Country/Area,906,2015.0,23501.311
+8136,Estimates,Dem. People's Republic of Korea,,408,PRK,KP,408.0,Country/Area,906,2015.0,25513.281
+8210,Estimates,Japan,,392,JPN,JP,392.0,Country/Area,906,2015.0,127358.353
+8284,Estimates,Mongolia,,496,MNG,MN,496.0,Country/Area,906,2015.0,2944.312
+8358,Estimates,Republic of Korea,,410,KOR,KR,410.0,Country/Area,906,2015.0,50772.791
+8432,Estimates,Southern Asia,,5501,,,34.0,Subregion,935,2015.0,1860756.259
+8506,Estimates,Afghanistan,,4,AFG,AF,4.0,Country/Area,5501,2015.0,33436.386
+8580,Estimates,Bangladesh,,50,BGD,BD,50.0,Country/Area,5501,2015.0,158673.067
+8654,Estimates,Bhutan,,64,BTN,BT,64.0,Country/Area,5501,2015.0,737.009
+8728,Estimates,India,,356,IND,IN,356.0,Country/Area,5501,2015.0,1320246.623
+8802,Estimates,Iran (Islamic Republic of),,364,IRN,IR,364.0,Country/Area,5501,2015.0,82053.308
+8876,Estimates,Maldives,,462,MDV,MV,462.0,Country/Area,5501,2015.0,420.532
+8950,Estimates,Nepal,,524,NPL,NP,524.0,Country/Area,5501,2015.0,27728.877
+9024,Estimates,Pakistan,,586,PAK,PK,586.0,Country/Area,5501,2015.0,215820.151
+9098,Estimates,Sri Lanka,,144,LKA,LK,144.0,Country/Area,5501,2015.0,21640.306
+9172,Estimates,South-Eastern Asia,,920,,,35.0,Subregion,935,2015.0,638814.193
+9246,Estimates,Brunei Darussalam,,96,BRN,BN,96.0,Country/Area,920,2015.0,419.503
+9320,Estimates,Cambodia,,116,KHM,KH,116.0,Country/Area,920,2015.0,15510.1
+9394,Estimates,Indonesia,,360,IDN,ID,360.0,Country/Area,920,2015.0,260363.854
+9468,Estimates,Lao People's Democratic Republic,,418,LAO,LA,418.0,Country/Area,920,2015.0,6748.779
+9542,Estimates,Malaysia,9,458,MYS,MY,458.0,Country/Area,920,2015.0,30959.818
+9616,Estimates,Myanmar,,104,MMR,MM,104.0,Country/Area,920,2015.0,50888.228
+9690,Estimates,Philippines,,608,PHL,PH,608.0,Country/Area,920,2015.0,104594.772
+9764,Estimates,Singapore,,702,SGP,SG,702.0,Country/Area,920,2015.0,5491.591
+9838,Estimates,Thailand,,764,THA,TH,764.0,Country/Area,920,2015.0,70391.368
+9912,Estimates,Timor-Leste,,626,TLS,TL,626.0,Country/Area,920,2015.0,1193.443
+9986,Estimates,Viet Nam,,704,VNM,VN,704.0,Country/Area,920,2015.0,92252.737
+10060,Estimates,Western Asia,,922,,,145.0,Subregion,935,2015.0,261729.875
+10134,Estimates,Armenia,,51,ARM,AM,51.0,Country/Area,922,2015.0,2922.222
+10208,Estimates,Azerbaijan,10,31,AZE,AZ,31.0,Country/Area,922,2015.0,9693.542
+10282,Estimates,Bahrain,,48,BHR,BH,48.0,Country/Area,922,2015.0,1342.154
+10356,Estimates,Cyprus,11,196,CYP,CY,196.0,Country/Area,922,2015.0,1210.693
+10430,Estimates,Georgia,12,268,GEO,GE,268.0,Country/Area,922,2015.0,3791.564
+10504,Estimates,Iraq,,368,IRQ,IQ,368.0,Country/Area,922,2015.0,37067.919
+10578,Estimates,Israel,,376,ISR,IL,376.0,Country/Area,922,2015.0,7973.82
+10652,Estimates,Jordan,,400,JOR,JO,400.0,Country/Area,922,2015.0,9201.562
+10726,Estimates,Kuwait,,414,KWT,KW,414.0,Country/Area,922,2015.0,3743.541
+10800,Estimates,Lebanon,,422,LBN,LB,422.0,Country/Area,922,2015.0,6543.689
+10874,Estimates,Oman,,512,OMN,OM,512.0,Country/Area,922,2015.0,4078.352
+10948,Estimates,Qatar,,634,QAT,QA,634.0,Country/Area,922,2015.0,2326.91
+11022,Estimates,Saudi Arabia,,682,SAU,SA,682.0,Country/Area,922,2015.0,29485.42
+11096,Estimates,State of Palestine,13,275,PSE,PS,275.0,Country/Area,922,2015.0,4466.212
+11170,Estimates,Syrian Arab Republic,,760,SYR,SY,760.0,Country/Area,922,2015.0,19711.377
+11244,Estimates,Türkiye,,792,TUR,TR,792.0,Country/Area,922,2015.0,79016.511
+11318,Estimates,United Arab Emirates,,784,ARE,AE,784.0,Country/Area,922,2015.0,8460.035
+11392,Estimates,Yemen,,887,YEM,YE,887.0,Country/Area,922,2015.0,30694.352
+11466,Estimates,Europe,,908,,,150.0,Region,1840,2015.0,743279.994
+11540,Estimates,Eastern Europe,,923,,,151.0,Subregion,908,2015.0,294925.311
+11614,Estimates,Belarus,,112,BLR,BY,112.0,Country/Area,923,2015.0,9478.645
+11688,Estimates,Bulgaria,,100,BGR,BG,100.0,Country/Area,923,2015.0,7201.687
+11762,Estimates,Czechia,,203,CZE,CZ,203.0,Country/Area,923,2015.0,10522.054
+11836,Estimates,Hungary,,348,HUN,HU,348.0,Country/Area,923,2015.0,9851.853
+11910,Estimates,Poland,,616,POL,PL,616.0,Country/Area,923,2015.0,38266.693
+11984,Estimates,Republic of Moldova,14,498,MDA,MD,498.0,Country/Area,923,2015.0,3313.364
+12058,Estimates,Romania,,642,ROU,RO,642.0,Country/Area,923,2015.0,19921.039
+12132,Estimates,Russian Federation,,643,RUS,RU,643.0,Country/Area,923,2015.0,145082.693
+12206,Estimates,Slovakia,,703,SVK,SK,703.0,Country/Area,923,2015.0,5417.84
+12280,Estimates,Ukraine,15,804,UKR,UA,804.0,Country/Area,923,2015.0,45869.443
+12354,Estimates,Northern Europe,,924,,,154.0,Subregion,908,2015.0,102691.176
+12428,Estimates,Denmark,16,208,DNK,DK,208.0,Country/Area,924,2015.0,5659.98
+12502,Estimates,Estonia,,233,EST,EE,233.0,Country/Area,924,2015.0,1313.16
+12576,Estimates,Faroe Islands,17,234,FRO,FO,234.0,Country/Area,924,2015.0,48.598
+12650,Estimates,Finland,18,246,FIN,FI,246.0,Country/Area,924,2015.0,5471.989
+12724,Estimates,Guernsey,19,831,GGY,GG,831.0,Country/Area,924,2015.0,62.217
+12798,Estimates,Iceland,,352,ISL,IS,352.0,Country/Area,924,2015.0,329.233
+12872,Estimates,Ireland,,372,IRL,IE,372.0,Country/Area,924,2015.0,4677.802
+12946,Estimates,Isle of Man,19,833,IMN,IM,833.0,Country/Area,924,2015.0,83.752
+13020,Estimates,Jersey,19,832,JEY,JE,832.0,Country/Area,924,2015.0,100.975
+13094,Estimates,Latvia,,428,LVA,LV,428.0,Country/Area,924,2015.0,1986.446
+13168,Estimates,Lithuania,,440,LTU,LT,440.0,Country/Area,924,2015.0,2922.086
+13242,Estimates,Norway,20,578,NOR,NO,578.0,Country/Area,924,2015.0,5165.723
+13316,Estimates,Sweden,,752,SWE,SE,752.0,Country/Area,924,2015.0,9747.691
+13390,Estimates,United Kingdom,21,826,GBR,GB,826.0,Country/Area,924,2015.0,65121.524
+13464,Estimates,Southern Europe,,925,,,39.0,Subregion,908,2015.0,153474.922
+13538,Estimates,Albania,,8,ALB,AL,8.0,Country/Area,925,2015.0,2901.37
+13612,Estimates,Andorra,,20,AND,AD,20.0,Country/Area,925,2015.0,72.983
+13686,Estimates,Bosnia and Herzegovina,,70,BIH,BA,70.0,Country/Area,925,2015.0,3541.484
+13760,Estimates,Croatia,,191,HRV,HR,191.0,Country/Area,925,2015.0,4205.865
+13834,Estimates,Gibraltar,19,292,GIB,GI,292.0,Country/Area,925,2015.0,33.011
+13908,Estimates,Greece,,300,GRC,GR,300.0,Country/Area,925,2015.0,10858.048
+13982,Estimates,Holy See,22,336,VAT,VA,336.0,Country/Area,925,2015.0,0.577
+14056,Estimates,Italy,,380,ITA,IT,380.0,Country/Area,925,2015.0,60639.026
+14130,Estimates,Kosovo (under UNSC res. 1244),23,412,XKX,XK,412.0,Country/Area,925,2015.0,1798.658
+14204,Estimates,Malta,,470,MLT,MT,470.0,Country/Area,925,2015.0,439.618
+14278,Estimates,Montenegro,,499,MNE,ME,499.0,Country/Area,925,2015.0,629.968
+14352,Estimates,North Macedonia,,807,MKD,MK,807.0,Country/Area,925,2015.0,1989.604
+14426,Estimates,Portugal,,620,PRT,PT,620.0,Country/Area,925,2015.0,10382.751
+14500,Estimates,San Marino,,674,SMR,SM,674.0,Country/Area,925,2015.0,33.77
+14574,Estimates,Serbia,24,688,SRB,RS,688.0,Country/Area,925,2015.0,7202.497
+14648,Estimates,Slovenia,,705,SVN,SI,705.0,Country/Area,925,2015.0,2059.147
+14722,Estimates,Spain,25,724,ESP,ES,724.0,Country/Area,925,2015.0,46686.545
+14796,Estimates,Western Europe,,926,,,155.0,Subregion,908,2015.0,192188.585
+14870,Estimates,Austria,,40,AUT,AT,40.0,Country/Area,926,2015.0,8586.304
+14944,Estimates,Belgium,,56,BEL,BE,56.0,Country/Area,926,2015.0,11238.392
+15018,Estimates,France,26,250,FRA,FR,250.0,Country/Area,926,2015.0,64831.554
+15092,Estimates,Germany,,276,DEU,DE,276.0,Country/Area,926,2015.0,81589.465
+15166,Estimates,Liechtenstein,,438,LIE,LI,438.0,Country/Area,926,2015.0,37.274
+15240,Estimates,Luxembourg,,442,LUX,LU,442.0,Country/Area,926,2015.0,562.896
+15314,Estimates,Monaco,,492,MCO,MC,492.0,Country/Area,926,2015.0,36.453
+15388,Estimates,Netherlands,27,528,NLD,NL,528.0,Country/Area,926,2015.0,17066.993
+15462,Estimates,Switzerland,,756,CHE,CH,756.0,Country/Area,926,2015.0,8239.254
+15537,Estimates,Latin America and the Caribbean,,904,,,419.0,Region,1840,2015.0,617071.61
+15611,Estimates,Caribbean,,915,,,29.0,Subregion,904,2015.0,42554.525
+15685,Estimates,Anguilla,19,660,AIA,AI,660.0,Country/Area,915,2015.0,14.034
+15759,Estimates,Antigua and Barbuda,,28,ATG,AG,28.0,Country/Area,915,2015.0,89.099
+15833,Estimates,Aruba,29,533,ABW,AW,533.0,Country/Area,915,2015.0,103.784
+15907,Estimates,Bahamas,,44,BHS,BS,44.0,Country/Area,915,2015.0,383.925
+15981,Estimates,Barbados,,52,BRB,BB,52.0,Country/Area,915,2015.0,278.678
+16055,Estimates,"Bonaire, Sint Eustatius and Saba",29,535,BES,BQ,535.0,Country/Area,915,2015.0,24.627
+16129,Estimates,British Virgin Islands,19,92,VGB,VG,92.0,Country/Area,915,2015.0,33.467
+16203,Estimates,Cayman Islands,19,136,CYM,KY,136.0,Country/Area,915,2015.0,60.911
+16277,Estimates,Cuba,,192,CUB,CU,192.0,Country/Area,915,2015.0,11277.278
+16351,Estimates,Curaçao,29,531,CUW,CW,531.0,Country/Area,915,2015.0,165.908
+16425,Estimates,Dominica,,212,DMA,DM,212.0,Country/Area,915,2015.0,70.285
+16499,Estimates,Dominican Republic,,214,DOM,DO,214.0,Country/Area,915,2015.0,10375.892
+16573,Estimates,Grenada,,308,GRD,GD,308.0,Country/Area,915,2015.0,114.423
+16647,Estimates,Guadeloupe,2,312,GLP,GP,312.0,Country/Area,915,2015.0,405.568
+16721,Estimates,Haiti,,332,HTI,HT,332.0,Country/Area,915,2015.0,10448.544
+16795,Estimates,Jamaica,,388,JAM,JM,388.0,Country/Area,915,2015.0,2798.459
+16869,Estimates,Martinique,2,474,MTQ,MQ,474.0,Country/Area,915,2015.0,385.574
+16943,Estimates,Montserrat,19,500,MSR,MS,500.0,Country/Area,915,2015.0,4.69
+17017,Estimates,Puerto Rico,30,630,PRI,PR,630.0,Country/Area,915,2015.0,3544.16
+17091,Estimates,Saint Barthélemy,2,652,BLM,BL,652.0,Country/Area,915,2015.0,9.514
+17165,Estimates,Saint Kitts and Nevis,,659,KNA,KN,659.0,Country/Area,915,2015.0,47.093
+17239,Estimates,Saint Lucia,,662,LCA,LC,662.0,Country/Area,915,2015.0,174.517
+17313,Estimates,Saint Martin (French part),2,663,MAF,MF,663.0,Country/Area,915,2015.0,37.438
+17387,Estimates,Saint Vincent and the Grenadines,,670,VCT,VC,670.0,Country/Area,915,2015.0,107.248
+17461,Estimates,Sint Maarten (Dutch part),29,534,SXM,SX,534.0,Country/Area,915,2015.0,37.075
+17535,Estimates,Trinidad and Tobago,,780,TTO,TT,780.0,Country/Area,915,2015.0,1425.252
+17609,Estimates,Turks and Caicos Islands,19,796,TCA,TC,796.0,Country/Area,915,2015.0,35.666
+17683,Estimates,United States Virgin Islands,30,850,VIR,VI,850.0,Country/Area,915,2015.0,101.416
+17757,Estimates,Central America,,916,,,13.0,Subregion,904,2015.0,166795.571
+17831,Estimates,Belize,,84,BLZ,BZ,84.0,Country/Area,916,2015.0,352.581
+17905,Estimates,Costa Rica,,188,CRI,CR,188.0,Country/Area,916,2015.0,4792.689
+17979,Estimates,El Salvador,,222,SLV,SV,222.0,Country/Area,916,2015.0,6174.682
+18053,Estimates,Guatemala,,320,GTM,GT,320.0,Country/Area,916,2015.0,15828.294
+18127,Estimates,Honduras,,340,HND,HN,340.0,Country/Area,916,2015.0,9150.007
+18201,Estimates,Mexico,,484,MEX,MX,484.0,Country/Area,916,2015.0,120463.639
+18275,Estimates,Nicaragua,,558,NIC,NI,558.0,Country/Area,916,2015.0,6107.917
+18349,Estimates,Panama,,591,PAN,PA,591.0,Country/Area,916,2015.0,3925.762
+18423,Estimates,South America,,931,,,5.0,Subregion,904,2015.0,407721.514
+18497,Estimates,Argentina,,32,ARG,AR,32.0,Country/Area,931,2015.0,43252.203
+18571,Estimates,Bolivia (Plurinational State of),,68,BOL,BO,68.0,Country/Area,931,2015.0,10931.888
+18645,Estimates,Brazil,,76,BRA,BR,76.0,Country/Area,931,2015.0,200891.199
+18719,Estimates,Chile,,152,CHL,CL,152.0,Country/Area,931,2015.0,17956.235
+18793,Estimates,Colombia,,170,COL,CO,170.0,Country/Area,931,2015.0,46767.121
+18867,Estimates,Ecuador,,218,ECU,EC,218.0,Country/Area,931,2015.0,16149.157
+18941,Estimates,Falkland Islands (Malvinas),31,238,FLK,FK,238.0,Country/Area,931,2015.0,3.373
+19015,Estimates,French Guiana,2,254,GUF,GF,254.0,Country/Area,931,2015.0,263.846
+19089,Estimates,Guyana,,328,GUY,GY,328.0,Country/Area,931,2015.0,756.443
+19163,Estimates,Paraguay,,600,PRY,PY,600.0,Country/Area,931,2015.0,6114.111
+19237,Estimates,Peru,,604,PER,PE,604.0,Country/Area,931,2015.0,30274.998
+19311,Estimates,Suriname,,740,SUR,SR,740.0,Country/Area,931,2015.0,578.536
+19385,Estimates,Uruguay,,858,URY,UY,858.0,Country/Area,931,2015.0,3361.995
+19459,Estimates,Venezuela (Bolivarian Republic of),,862,VEN,VE,862.0,Country/Area,931,2015.0,30420.409
+19533,Estimates,Northern America,,905,,,21.0,Region,1840,2015.0,360545.759
+19607,Estimates,Bermuda,19,60,BMU,BM,60.0,Country/Area,905,2015.0,63.498
+19681,Estimates,Canada,,124,CAN,CA,124.0,Country/Area,905,2015.0,35792.151
+19755,Estimates,Greenland,17,304,GRL,GL,304.0,Country/Area,905,2015.0,55.988
+19829,Estimates,Saint Pierre and Miquelon,2,666,SPM,PM,666.0,Country/Area,905,2015.0,5.953
+19903,Estimates,United States of America,32,840,USA,US,840.0,Country/Area,905,2015.0,324628.169
+19977,Estimates,Oceania,,909,,,9.0,Region,1840,2015.0,40260.337
+20051,Estimates,Australia/New Zealand,,927,,,53.0,Subregion,909,2015.0,28332.881
+20125,Estimates,Australia,33,36,AUS,AU,36.0,Country/Area,927,2015.0,23768.258
+20199,Estimates,New Zealand,34,554,NZL,NZ,554.0,Country/Area,927,2015.0,4564.623
+20273,Estimates,Melanesia,,928,,,54.0,Subregion,909,2015.0,10726.028
+20347,Estimates,Fiji,,242,FJI,FJ,242.0,Country/Area,928,2015.0,918.179
+20421,Estimates,New Caledonia,2,540,NCL,NC,540.0,Country/Area,928,2015.0,283.011
+20495,Estimates,Papua New Guinea,,598,PNG,PG,598.0,Country/Area,928,2015.0,8633.649
+20569,Estimates,Solomon Islands,,90,SLB,SB,90.0,Country/Area,928,2015.0,628.035
+20643,Estimates,Vanuatu,,548,VUT,VU,548.0,Country/Area,928,2015.0,263.154
+20717,Estimates,Micronesia,,954,,,57.0,Subregion,909,2015.0,519.604
+20791,Estimates,Guam,30,316,GUM,GU,316.0,Country/Area,954,2015.0,165.221
+20865,Estimates,Kiribati,,296,KIR,KI,296.0,Country/Area,954,2015.0,116.05
+20939,Estimates,Marshall Islands,,584,MHL,MH,584.0,Country/Area,954,2015.0,49.323
+21013,Estimates,Micronesia (Fed. States of),,583,FSM,FM,583.0,Country/Area,954,2015.0,108.547
+21087,Estimates,Nauru,,520,NRU,NR,520.0,Country/Area,954,2015.0,10.849
+21161,Estimates,Northern Mariana Islands,30,580,MNP,MP,580.0,Country/Area,954,2015.0,51.866
+21235,Estimates,Palau,,585,PLW,PW,585.0,Country/Area,954,2015.0,17.748
+21309,Estimates,Polynesia,35,957,,,61.0,Subregion,909,2015.0,681.824
+21383,Estimates,American Samoa,30,16,ASM,AS,16.0,Country/Area,957,2015.0,53.185
+21457,Estimates,Cook Islands,36,184,COK,CK,184.0,Country/Area,957,2015.0,17.494
+21531,Estimates,French Polynesia,2,258,PYF,PF,258.0,Country/Area,957,2015.0,277.167
+21605,Estimates,Niue,36,570,NIU,NU,570.0,Country/Area,957,2015.0,1.775
+21679,Estimates,Samoa,,882,WSM,WS,882.0,Country/Area,957,2015.0,200.923
+21753,Estimates,Tokelau,36,772,TKL,TK,772.0,Country/Area,957,2015.0,1.714
+21827,Estimates,Tonga,,776,TON,TO,776.0,Country/Area,957,2015.0,106.363
+21901,Estimates,Tuvalu,,798,TUV,TV,798.0,Country/Area,957,2015.0,10.974
+21975,Estimates,Wallis and Futuna Islands,2,876,WLF,WF,876.0,Country/Area,957,2015.0,12.229

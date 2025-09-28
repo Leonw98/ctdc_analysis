@@ -1,0 +1,97 @@
+{
+  "name": "Blue Heart Campaign",
+  "dataColors": [
+    "#00AEEF",
+    "#005F9E",
+    "#002D63",
+    "#000000",
+    "#888888",
+    "#CCCCCC",
+    "#FFD200"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#00AEEF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": [
+          {
+            "solid": {
+              "color": "#000000"
+            }
+          }
+        ],
+        "fontFamily": [
+          {
+            "value": "Montserrat"
+          }
+        ],
+        "fontSize": [
+          {
+            "value": 11
+          }
+        ]
+      }
+    },
+    "titleText": {
+      "*": {
+        "color": [
+          {
+            "solid": {
+              "color": "#00AEEF"
+            }
+          }
+        ],
+        "fontFamily": [
+          {
+            "value": "Montserrat"
+          }
+        ],
+        "fontSize": [
+          {
+            "value": 14
+          }
+        ],
+        "fontWeight": [
+          {
+            "value": "bold"
+          }
+        ]
+      }
+    },
+    "header": {
+      "*": {
+        "background": [
+          {
+            "solid": {
+              "color": "#00AEEF"
+            }
+          }
+        ],
+        "fontFamily": [
+          {
+            "value": "Montserrat"
+          }
+        ],
+        "fontSize": [
+          {
+            "value": 12
+          }
+        ],
+        "fontWeight": [
+          {
+            "value": "bold"
+          }
+        ],
+        "color": [
+          {
+            "solid": {
+              "color": "#FFFFFF"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

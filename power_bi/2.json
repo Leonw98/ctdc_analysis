@@ -1,0 +1,47 @@
+{
+  "name": "CTDC Custom Theme",
+  "dataColors": [
+    "#2E86AB",
+    "#F18F01",
+    "#C73E1D",
+    "#6A4C93",
+    "#A9A9A9"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#333333",
+  "tableAccent": "#2E86AB",
+  "visualStyles": {
+    "card": {
+      "*": {
+        "title": [
+          {
+            "fontSize": 10,
+            "color": { "value": "#555555" }
+          }
+        ],
+        "dataLabel": [
+          {
+            "fontSize": 14,
+            "color": { "value": "#2E86AB" }
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "title": [
+          {
+            "fontSize": 10,
+            "color": { "value": "#444444" }
+          }
+        ],
+        "items": [
+          {
+            "fontSize": 11,
+            "color": { "value": "#333333" }
+          }
+        ]
+      }
+    }
+  }
+}

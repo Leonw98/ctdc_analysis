@@ -1,0 +1,38 @@
+{
+  "name": "CTDC Clean Theme",
+  "dataColors": [
+    "#2E86AB","#F18F01","#C73E1D","#6A4C93","#A9A9A9",
+    "#8AD4EB","#FE9666","#A66999","#3599B8","#DFBFBF",
+    "#4AC5BB","#5F6B6D","#FB8281","#F4D25A","#7F898A",
+    "#A4DDEE","#FDAB89","#B687AC","#28738A","#A78F8F",
+    "#168980","#293537","#BB4A4A","#B59525","#475052",
+    "#6A9FB0","#BD7150","#7B4F71","#1B4D5C","#706060",
+    "#0F5C55","#1C2325"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#2E86AB",
+
+  "visualStyles": {
+    "card": {
+      "*": {
+        "title": [
+          { "color": { "value": "#4C3535" }, "fontSize": 10 }
+        ],
+        "dataLabel": [
+          { "color": { "value": "#2E86AB" }, "fontSize": 14 }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "title": [
+          { "color": { "value": "#4C3535" }, "fontSize": 10 }
+        ],
+        "items": [
+          { "color": { "value": "#333333" }, "fontSize": 11 }
+        ]
+      }
+    }
+  }
+}
