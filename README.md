@@ -1,3 +1,4 @@
+
 # 📊 CTDC Human Trafficking Analysis & Power BI Dashboard
 
 This project combines **Python‑based data auditing and reshaping** with **Power BI modelling and visualisation** to explore the *Counter‑Trafficking Data Collaborative (CTDC)* dataset. The aim is to create a transparent, reproducible workflow that highlights both the **scale of exploitation** and the **gaps in data coverage**, while also surfacing gender‑based differences in exploitation pathways.
@@ -23,6 +24,7 @@ ctdc_analysis/
 │   └── outputs/            # Cleaned population lookup, reshaped tables
 │
 ├── outputs/                # Audit summaries, CSVs, styled Excel, plots
+│   └── samples/            # Lightweight sample CSVs for demo/testing
 │
 ├── power_bi/               # Power BI dashboards (.pbix) and screenshots
 │
@@ -43,8 +45,8 @@ ctdc_analysis/
   - Demographics relatively complete.  
 
 📸 See:  
-- `outputs/missing_summary_styled.xlsx`  
-- `outputs/group_missing_summary.png`
+- [Missingness summary (Excel)](outputs/missing_summary_styled.xlsx)  
+- [Group missingness summary (PNG)](outputs/group_missing_summary.png)
 
 ---
 
@@ -57,8 +59,8 @@ ctdc_analysis/
   - Country coverage uneven (e.g. Egypt, India, Kenya strong; Lebanon, Belarus patchy).  
 
 📸 See:  
-- `outputs/completion_trends.png`  
-- `outputs/raw_vs_normalised.png`
+- [Completion trends](outputs/completion_trends.png)  
+- [Raw vs Normalised](outputs/raw_vs_normalised.png)
 
 ---
 
@@ -72,8 +74,12 @@ ctdc_analysis/
   - Map `SubCategory → ParentCategory`.  
 
 Outputs:  
-- `outputs/ctdc_long_with_demographics.csv`  
-- `outputs/case_abduction_flags.csv`
+- [Sample CTDC Long with Demographics](outputs/samples/sample_ctdc_long.csv)  
+- [Sample Subgroup Long](outputs/samples/sample_subgroup_long.csv)  
+
+Full datasets (hosted as release assets):  
+- [ctdc_long_with_demographics.csv – 58 MB](https://github.com/Leonw98/ctdc_analysis/releases/download/v1.0-data/ctdc_long_with_demographics.csv)  
+- [subgroup_long.csv – 335 MB](https://github.com/Leonw98/ctdc_analysis/releases/download/v1.0-data/subgroup_long.csv)  
 
 ---
 
@@ -82,7 +88,7 @@ Outputs:
 - Extracted **Total Population (thousands)**.  
 - Scaled by ×1,000 for true counts.  
 - Exported cleaned lookup:  
-  - `data/outputs/cleaned_population_lookup.csv`
+  - [Cleaned population lookup](data/outputs/cleaned_population_lookup.csv)
 
 ---
 
@@ -110,25 +116,25 @@ DIVIDE(SUM('case_abduction_flags'[isAbduction]), [TotalPopulation]) * 100000
 
 ## 8. 📊 Dashboard Insights (Gender Filters)
 
-- **Female filter**
+- **Female filter**  
   - Sexual exploitation dominates female cases.  
   - Recruitment often via **intimate partners or family members**.  
   - Control types lean heavily on **psychological abuse, threats, and restriction of movement**.  
   - Broader age spread, including older age brackets.  
 
-- **Male filter**
+- **Male filter**  
   - Labour exploitation dominates male cases.  
   - Recruitment more **community‑based** (friends, family), with less emphasis on intimate partners.  
   - Control types show more **direct coercion** (physical abuse, economic abuse, threats).  
   - Age distribution concentrated in **working‑age brackets (22–46)**, with notable presence of adolescents in forced labour/criminality.  
 
-- **Not Known filter**
+- **Not Known filter**  
   - Smaller group, but important to track as it highlights **data quality gaps**.  
   - Often under‑specified in both exploitation type and control methods.  
   - Should be flagged in dashboards as “data incomplete” rather than ignored.  
 
 📸 Screenshots in:  
-- `power_bi/`
+- [Power BI dashboards](power_bi/)
 
 ---
 
@@ -143,23 +149,24 @@ DIVIDE(SUM('case_abduction_flags'[isAbduction]), [TotalPopulation]) * 100000
 
 ## 10. 🚀 Next Steps
 
-- **Data Governance & Oversight**
+- **Data Governance & Oversight**  
   - Establish a **project group or steering committee** to oversee CTDC data collation methods.  
   - Define a shared **ideology and methodology** for data capture, ensuring consistency across sources.  
   - Set **clear goals for data completeness** (e.g. minimum % coverage for control type, exploitation type, recruiter relation).  
 
-- **Standardisation**
+- **Standardisation**  
   - Agree on **controlled vocabularies** for exploitation types, control methods, and recruiter relations.  
   - Standardise demographic categories (age bands, gender identities) to reduce fragmentation.  
   - Document and publish a **data dictionary** for all contributors.  
 
-- **Quality Monitoring**
+- **Quality Monitoring**  
   - Build **completeness dashboards** that track missingness by source, country, and gender.  
   - Flag sources consistently under‑reporting certain fields.  
   - Provide **feedback loops** to data providers to improve future submissions.  
 
-- **Strategic Use**
+- **Strategic Use**  
   - Pair **absolute counts** with **per‑capita rates** and **coverage indicators** in all reporting.  
   - Use gender‑split dashboards to highlight **different exploitation pathways**.  
   - Encourage stakeholders to interpret findings with both **scale** and **data quality** in mind.  
+```
 
